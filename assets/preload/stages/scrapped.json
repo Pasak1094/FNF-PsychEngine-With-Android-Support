@@ -1,0 +1,9 @@
+{
+	"directory": "freeplay",
+	"defaultZoom": 0.55,
+	"isPixelStage": false,
+
+	"boyfriend": [1400, 800],
+	"girlfriend": [1030, 830],
+	"opponent": [730, 800]
+}
