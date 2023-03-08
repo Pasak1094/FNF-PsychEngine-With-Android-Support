@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_char_1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="char10000" x="10" y="10" width="657" height="664"/>
+	<SubTexture name="char10001" x="10" y="10" width="657" height="664"/>
+	<SubTexture name="char10002" x="10" y="10" width="657" height="664"/>
+	<SubTexture name="char10003" x="10" y="10" width="657" height="664"/>
+	<SubTexture name="char10004" x="717" y="10" width="656" height="664" frameX="0" frameY="0" frameWidth="657" frameHeight="664"/>
+	<SubTexture name="char10005" x="717" y="10" width="656" height="664" frameX="0" frameY="0" frameWidth="657" frameHeight="664"/>
+	<SubTexture name="char10006" x="717" y="10" width="656" height="664" frameX="0" frameY="0" frameWidth="657" frameHeight="664"/>
+	<SubTexture name="char10007" x="717" y="10" width="656" height="664" frameX="0" frameY="0" frameWidth="657" frameHeight="664"/>
+</TextureAtlas>
