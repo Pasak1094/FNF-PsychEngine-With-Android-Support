@@ -1,0 +1,9 @@
+{
+	"directory": "cfmot",
+	"defaultZoom": 0.45,
+	"isPixelStage": false,
+
+	"boyfriend": [770, 150],
+	"girlfriend": [400, 180],
+	"opponent": [100, 150]
+}
