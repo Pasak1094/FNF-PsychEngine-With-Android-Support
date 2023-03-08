@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				117,
+				173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				135,
+				143
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				200,
+				123
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				114,
+				452
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				134
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pshika",
+	"position": [
+		10,
+		50
+	],
+	"healthicon": "sprayish",
+	"flip_x": false,
+	"healthbar_colors": [
+		228,
+		79,
+		107
+	],
+	"camera_position": [
+		0,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

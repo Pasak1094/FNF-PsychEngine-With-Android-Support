@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				-144
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-144
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				-144
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				-144
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				-144
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				-144
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "tmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				-144
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "tmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				-144
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "tmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-102,
+				-144
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "tmiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf_mountain",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-300,
+		40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
