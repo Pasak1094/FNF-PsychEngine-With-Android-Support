@@ -53,7 +53,7 @@ class CreditsState extends MusicBeatState
 		add(grpOptions);
 
 		#if MODS_ALLOWED
-		var path:String = SUtil.getPath() + 'modsList.txt';
+		var path:String = 'modsList.txt';
 		if(FileSystem.exists(path))
 		{
 			var leMods:Array<String> = CoolUtil.coolTextFile(path);
@@ -80,9 +80,12 @@ class CreditsState extends MusicBeatState
 		}
 		#end
 
-		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-			['Psych Engine Android'],
-			['Saw (M.A. Jigsaw)',	'saw',				'Main Programmer of Psych Engine Android',					'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 	'F73838'],
+		var pisspoop:Array<Array<String>> = [
+			['CFMOT Mod Crew'],
+			['Garden280DEV',        'garden',           'Main Programmer',											'https://www.youtube.com/channel/UCPw11ADVkXlRgW19YFympuw', '00F66D'],
+			['Mayonezz',		    'mayonezz',		    'Main Artist and Composer',							        'https://www.youtube.com/channel/UC0BRPHsYhr7kvB7NG-WQrrg',	'FFBB57'],
+			['Sashanimation',		'shnmitn',	    	'BG Artist',							                    'https://www.youtube.com/c/Sashanimation',	'7BA7FE'],
+			['iwtd1e',				'iwtdie',			'Cutscene Animator',										'https://www.youtube.com/c/iwanttodie1',	'7BA7FE'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',							'https://twitter.com/Shadow_Mario_',	'444444'],
@@ -162,11 +165,6 @@ class CreditsState extends MusicBeatState
 		bg.color = getCurrentBGColor();
 		intendedColor = bg.color;
 		changeSelection();
-
-		#if android
-		addVirtualPad(UP_DOWN, A_B);
-		#end
-
 		super.create();
 	}
 

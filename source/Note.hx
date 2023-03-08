@@ -98,6 +98,16 @@ class Note extends FlxSprite
 
 		if(noteData > -1 && noteType != value) {
 			switch(value) {
+				case 'Electric Note':
+					ignoreNote = mustPress;
+					reloadNote('ELECTRO');
+					missHealth = 1;
+					hitCausesMiss = true;
+				case 'Bottly Shard':
+					ignoreNote = mustPress;
+					reloadNote('GLASS');
+					missHealth = 0.5;
+					hitCausesMiss = true;
 				case 'Hurt Note':
 					ignoreNote = mustPress;
 					reloadNote('HURT');
