@@ -1,1 +1,59 @@
-
+{
+	"song": {
+		"speed": 3,
+		"stage": "gangandmay",
+		"player1": "bf",
+		"player2": "charmy",
+		"player3": null,
+		"events": [
+			[
+				47906.25,
+				[
+					[
+						"Toggle Enemy Arrows Making Damage",
+						"",
+						""
+					]
+				]
+			],
+			[
+				71906.25,
+				[
+					[
+						"Toggle Enemy Arrows Making Damage",
+						"",
+						""
+					]
+				]
+			],
+			[
+				109500,
+				[
+					[
+						"Toggle Enemy Arrows Making Damage",
+						"",
+						""
+					]
+				]
+			],
+			[
+				155906.25,
+				[
+					[
+						"Toggle Enemy Arrows Making Damage",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Nervous Breakdown"
+	}
+}
