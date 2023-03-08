@@ -1,0 +1,58 @@
+{
+	"storyName": "ass poop piss",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Laughin",
+			"icon_shuraperd",
+			[
+				157,
+				107,
+				186
+			]
+		],
+		[
+			"Shhhhhh",
+			"icon-sh",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Glasses Scrapped",
+			"icon-putty",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"I hate my hands",
+			"icon-kiborg",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "how"
+}
