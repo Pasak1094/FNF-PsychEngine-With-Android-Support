@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ELECTRONOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue00000" x="0" y="0" width="160" height="157"/>
+	<SubTexture name="blue00001" x="160" y="0" width="160" height="157"/>
+	<SubTexture name="blue00002" x="320" y="0" width="160" height="157"/>
+	<SubTexture name="blue00003" x="320" y="0" width="160" height="157"/>
+	<SubTexture name="blue00004" x="480" y="0" width="160" height="157"/>
+	<SubTexture name="blue00005" x="640" y="0" width="160" height="157"/>
+	<SubTexture name="blue00006" x="800" y="0" width="160" height="157"/>
+	<SubTexture name="blue00007" x="960" y="0" width="160" height="157"/>
+	<SubTexture name="blue00008" x="960" y="0" width="160" height="157"/>
+	<SubTexture name="blue00009" x="1120" y="0" width="160" height="157"/>
+	<SubTexture name="blue00010" x="1120" y="0" width="160" height="157"/>
+	<SubTexture name="blue00011" x="1280" y="0" width="160" height="157"/>
+	<SubTexture name="blue00012" x="1280" y="0" width="160" height="157"/>
+	<SubTexture name="green00000" x="1440" y="0" width="160" height="157"/>
+	<SubTexture name="green00001" x="1600" y="0" width="160" height="157"/>
+	<SubTexture name="green00002" x="1760" y="0" width="160" height="157"/>
+	<SubTexture name="green00003" x="0" y="157" width="160" height="157"/>
+	<SubTexture name="green00004" x="160" y="157" width="160" height="157"/>
+	<SubTexture name="green00005" x="320" y="157" width="160" height="157"/>
+	<SubTexture name="green00006" x="480" y="157" width="160" height="157"/>
+	<SubTexture name="green00007" x="480" y="157" width="160" height="157"/>
+	<SubTexture name="green00008" x="640" y="157" width="160" height="157"/>
+	<SubTexture name="green00009" x="800" y="157" width="160" height="157"/>
+	<SubTexture name="green00010" x="800" y="157" width="160" height="157"/>
+	<SubTexture name="green00011" x="800" y="157" width="160" height="157"/>
+	<SubTexture name="green00012" x="800" y="157" width="160" height="157"/>
+	<SubTexture name="green00013" x="960" y="157" width="160" height="157"/>
+	<SubTexture name="purple00000" x="1120" y="157" width="157" height="160"/>
+	<SubTexture name="purple00001" x="1277" y="157" width="157" height="160"/>
+	<SubTexture name="purple00002" x="1434" y="157" width="157" height="160"/>
+	<SubTexture name="purple00003" x="1591" y="157" width="157" height="160"/>
+	<SubTexture name="purple00004" x="1748" y="157" width="157" height="160"/>
+	<SubTexture name="purple00005" x="0" y="317" width="157" height="160"/>
+	<SubTexture name="purple00006" x="157" y="317" width="157" height="160"/>
+	<SubTexture name="purple00007" x="157" y="317" width="157" height="160"/>
+	<SubTexture name="purple00008" x="314" y="317" width="157" height="160"/>
+	<SubTexture name="purple00009" x="314" y="317" width="157" height="160"/>
+	<SubTexture name="purple00010" x="471" y="317" width="157" height="160"/>
+	<SubTexture name="red00000" x="628" y="317" width="157" height="160"/>
+	<SubTexture name="red00001" x="628" y="317" width="157" height="160"/>
+	<SubTexture name="red00002" x="785" y="317" width="157" height="160"/>
+	<SubTexture name="red00003" x="942" y="317" width="157" height="160"/>
+	<SubTexture name="red00004" x="1099" y="317" width="157" height="160"/>
+	<SubTexture name="red00005" x="1256" y="317" width="157" height="160"/>
+	<SubTexture name="red00006" x="1413" y="317" width="157" height="160"/>
+	<SubTexture name="red00007" x="1413" y="317" width="157" height="160"/>
+	<SubTexture name="red00008" x="1570" y="317" width="157" height="160"/>
+	<SubTexture name="red00009" x="1727" y="317" width="157" height="160"/>
+	<SubTexture name="red00010" x="1884" y="317" width="157" height="160"/>
+	<SubTexture name="red00011" x="1884" y="317" width="157" height="160"/>
+</TextureAtlas>
