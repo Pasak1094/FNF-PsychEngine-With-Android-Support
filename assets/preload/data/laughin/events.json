@@ -1,1 +1,49 @@
-
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "mountain",
+		"player1": "bf-mountain",
+		"player2": "shuraperd",
+		"player3": null,
+		"events": [
+			[
+				44800,
+				[
+					[
+						"Shake Arrows",
+						"30",
+						"3"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Shake Arrows",
+						"30",
+						"3"
+					]
+				]
+			],
+			[
+				108800,
+				[
+					[
+						"Shake Arrows",
+						"30",
+						"3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Laughin"
+	}
+}
