@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kratcy_new_assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="0" y="0" width="527" height="664"/>
+	<SubTexture name="down0001" x="0" y="0" width="527" height="664"/>
+	<SubTexture name="down0002" x="527" y="0" width="527" height="664"/>
+	<SubTexture name="down0003" x="527" y="0" width="527" height="664"/>
+	<SubTexture name="down0004" x="1054" y="0" width="527" height="664"/>
+	<SubTexture name="idle0000" x="1581" y="0" width="567" height="693"/>
+	<SubTexture name="idle0001" x="1581" y="0" width="567" height="693"/>
+	<SubTexture name="idle0002" x="2148" y="0" width="567" height="693"/>
+	<SubTexture name="idle0003" x="2148" y="0" width="567" height="693"/>
+	<SubTexture name="idle0004" x="2715" y="0" width="567" height="693"/>
+	<SubTexture name="idle0005" x="2715" y="0" width="567" height="693"/>
+	<SubTexture name="idle0006" x="3282" y="0" width="567" height="693"/>
+	<SubTexture name="idle0007" x="3282" y="0" width="567" height="693"/>
+	<SubTexture name="idle0008" x="0" y="693" width="567" height="693"/>
+	<SubTexture name="idle0009" x="0" y="693" width="567" height="693"/>
+	<SubTexture name="idle0010" x="567" y="693" width="567" height="693"/>
+	<SubTexture name="idle0011" x="567" y="693" width="567" height="693"/>
+	<SubTexture name="idle0012" x="567" y="693" width="567" height="693"/>
+	<SubTexture name="idle0013" x="567" y="693" width="567" height="693"/>
+	<SubTexture name="left0000" x="1134" y="693" width="688" height="688"/>
+	<SubTexture name="left0001" x="1134" y="693" width="688" height="688"/>
+	<SubTexture name="left0002" x="1822" y="693" width="688" height="688"/>
+	<SubTexture name="left0003" x="1822" y="693" width="688" height="688"/>
+	<SubTexture name="left0004" x="2510" y="693" width="688" height="688"/>
+	<SubTexture name="righty0000" x="3198" y="693" width="520" height="700"/>
+	<SubTexture name="righty0001" x="3198" y="693" width="520" height="700"/>
+	<SubTexture name="righty0002" x="0" y="1393" width="520" height="700"/>
+	<SubTexture name="righty0003" x="0" y="1393" width="520" height="700"/>
+	<SubTexture name="righty0004" x="520" y="1393" width="520" height="700"/>
+	<SubTexture name="up0000" x="1040" y="1393" width="733" height="762"/>
+	<SubTexture name="up0001" x="1040" y="1393" width="733" height="762"/>
+	<SubTexture name="up0002" x="1773" y="1393" width="733" height="762"/>
+	<SubTexture name="up0003" x="1773" y="1393" width="733" height="762"/>
+	<SubTexture name="up0004" x="2506" y="1393" width="733" height="762"/>
+</TextureAtlas>
