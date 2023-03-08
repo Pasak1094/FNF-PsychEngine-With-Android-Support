@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cliff_back_rain_fire.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rain0000" x="10" y="10" width="1768" height="954"/>
+	<SubTexture name="rain0001" x="1828" y="10" width="1768" height="954"/>
+	<SubTexture name="rain0002" x="10" y="1014" width="1768" height="954"/>
+	<SubTexture name="rain0003" x="1828" y="1014" width="1768" height="954"/>
+	<SubTexture name="rain0004" x="10" y="2018" width="1768" height="954"/>
+	<SubTexture name="rain0005" x="1828" y="2018" width="1768" height="954"/>
+	<SubTexture name="rain0006" x="10" y="3022" width="1768" height="954"/>
+</TextureAtlas>

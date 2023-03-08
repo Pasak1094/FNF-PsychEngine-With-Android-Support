@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="car.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="car образец 10000" x="10" y="10" width="1070" height="544"/>
+	<SubTexture name="car образец 10001" x="10" y="10" width="1070" height="544"/>
+	<SubTexture name="car образец 10002" x="1130" y="10" width="1070" height="544"/>
+	<SubTexture name="car образец 10003" x="1130" y="10" width="1070" height="544"/>
+	<SubTexture name="car образец 10004" x="2250" y="10" width="1070" height="544"/>
+	<SubTexture name="car образец 10005" x="2250" y="10" width="1070" height="544"/>
+	<SubTexture name="car образец 10006" x="10" y="604" width="1070" height="544"/>
+	<SubTexture name="car образец 10007" x="10" y="604" width="1070" height="544"/>
+	<SubTexture name="car образец 10008" x="1130" y="604" width="1070" height="544"/>
+	<SubTexture name="car образец 10009" x="2250" y="604" width="1070" height="544"/>
+</TextureAtlas>

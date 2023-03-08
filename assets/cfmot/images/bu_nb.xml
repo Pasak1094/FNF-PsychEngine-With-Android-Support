@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buba.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="buba0000" x="10" y="10" width="291" height="734"/>
+	<SubTexture name="buba0001" x="351" y="10" width="291" height="734"/>
+	<SubTexture name="buba0002" x="692" y="10" width="291" height="734"/>
+	<SubTexture name="buba0003" x="692" y="10" width="291" height="734"/>
+	<SubTexture name="buba0004" x="1033" y="10" width="291" height="734"/>
+	<SubTexture name="buba0005" x="1033" y="10" width="291" height="734"/>
+	<SubTexture name="buba0006" x="1374" y="10" width="291" height="734"/>
+	<SubTexture name="buba0007" x="1715" y="10" width="291" height="734"/>
+	<SubTexture name="buba0008" x="2056" y="10" width="291" height="734"/>
+	<SubTexture name="buba0009" x="2397" y="10" width="291" height="734"/>
+	<SubTexture name="buba0010" x="2738" y="10" width="291" height="734"/>
+	<SubTexture name="buba0011" x="3079" y="10" width="291" height="734"/>
+	<SubTexture name="buba0012" x="3420" y="10" width="291" height="734"/>
+	<SubTexture name="buba0013" x="3761" y="10" width="291" height="734"/>
+	<SubTexture name="buba0014" x="10" y="794" width="291" height="734"/>
+	<SubTexture name="buba0015" x="351" y="794" width="291" height="734"/>
+</TextureAtlas>

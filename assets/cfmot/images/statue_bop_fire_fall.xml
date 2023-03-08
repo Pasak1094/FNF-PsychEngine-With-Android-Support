@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="statue_bop_fire_fall.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="statue0000" x="10" y="10" width="383" height="707" frameX="0" frameY="-7" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0001" x="10" y="10" width="383" height="707" frameX="0" frameY="-7" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0002" x="10" y="10" width="383" height="707" frameX="-2" frameY="-7" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0003" x="10" y="10" width="383" height="707" frameX="-2" frameY="-7" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0004" x="443" y="10" width="431" height="731" frameX="0" frameY="0" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0005" x="443" y="10" width="431" height="731" frameX="0" frameY="0" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0006" x="924" y="10" width="422" height="727" frameX="0" frameY="-3" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0007" x="924" y="10" width="422" height="727" frameX="0" frameY="-3" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0008" x="924" y="10" width="422" height="727" frameX="0" frameY="-3" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0009" x="924" y="10" width="422" height="727" frameX="0" frameY="-3" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0010" x="924" y="10" width="422" height="727" frameX="0" frameY="-3" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0011" x="924" y="10" width="422" height="727" frameX="0" frameY="-3" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0012" x="924" y="10" width="422" height="727" frameX="0" frameY="-3" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0013" x="924" y="10" width="422" height="727" frameX="0" frameY="-3" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0014" x="924" y="10" width="422" height="727" frameX="0" frameY="-3" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0015" x="924" y="10" width="422" height="727" frameX="0" frameY="-3" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0016" x="1396" y="10" width="431" height="731" frameX="-2" frameY="-3" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0017" x="1396" y="10" width="431" height="731" frameX="-2" frameY="-3" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0018" x="1877" y="10" width="448" height="740" frameX="-17" frameY="-8" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0019" x="1877" y="10" width="448" height="740" frameX="-17" frameY="-8" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0020" x="1877" y="10" width="448" height="740" frameX="-17" frameY="-8" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0021" x="2375" y="10" width="467" height="749" frameX="-44" frameY="-8" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0022" x="2375" y="10" width="467" height="749" frameX="-44" frameY="-8" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0023" x="2375" y="10" width="467" height="749" frameX="-44" frameY="-8" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0024" x="2892" y="10" width="535" height="776" frameX="-70" frameY="-18" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0025" x="2892" y="10" width="535" height="776" frameX="-70" frameY="-18" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0026" x="3477" y="10" width="582" height="821" frameX="-119" frameY="-41" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0027" x="3477" y="10" width="582" height="821" frameX="-119" frameY="-41" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0028" x="10" y="881" width="636" height="871" frameX="-185" frameY="-98" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0029" x="10" y="881" width="636" height="871" frameX="-185" frameY="-98" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0030" x="696" y="881" width="708" height="874" frameX="-270" frameY="-247" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0031" x="696" y="881" width="708" height="874" frameX="-270" frameY="-247" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0032" x="1454" y="881" width="802" height="903" frameX="-389" frameY="-556" frameWidth="1191" frameHeight="2203"/>
+	<SubTexture name="statue0033" x="2306" y="881" width="6" height="37" frameX="-773" frameY="-2166" frameWidth="1191" frameHeight="2203"/>
+</TextureAtlas>

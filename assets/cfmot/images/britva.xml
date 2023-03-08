@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="britva.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="srajenie0000" x="10" y="10" width="484" height="448"/>
+	<SubTexture name="srajenie0001" x="544" y="10" width="484" height="448"/>
+	<SubTexture name="srajenie0002" x="1078" y="10" width="484" height="448"/>
+	<SubTexture name="srajenie0003" x="1612" y="10" width="484" height="448"/>
+	<SubTexture name="srajenie0004" x="2146" y="10" width="484" height="448"/>
+	<SubTexture name="srajenie0005" x="2680" y="10" width="484" height="448"/>
+	<SubTexture name="srajenie0006" x="3214" y="10" width="484" height="448"/>
+	<SubTexture name="srajenie0007" x="10" y="508" width="484" height="448"/>
+	<SubTexture name="srajenie0008" x="544" y="508" width="484" height="448"/>
+	<SubTexture name="srajenie0009" x="1078" y="508" width="484" height="448"/>
+	<SubTexture name="srajenie0010" x="1612" y="508" width="484" height="448"/>
+	<SubTexture name="srajenie0011" x="2146" y="508" width="484" height="448"/>
+	<SubTexture name="srajenie0012" x="2680" y="508" width="484" height="448"/>
+	<SubTexture name="srajenie0013" x="3214" y="508" width="484" height="448"/>
+	<SubTexture name="srajenie0014" x="10" y="1006" width="484" height="448"/>
+	<SubTexture name="srajenie0015" x="544" y="1006" width="484" height="448"/>
+	<SubTexture name="srajenie0016" x="1078" y="1006" width="484" height="448"/>
+	<SubTexture name="srajenie0017" x="1612" y="1006" width="484" height="448"/>
+	<SubTexture name="srajenie0018" x="2146" y="1006" width="484" height="448"/>
+	<SubTexture name="srajenie0019" x="2680" y="1006" width="484" height="448"/>
+	<SubTexture name="srajenie0020" x="3214" y="1006" width="484" height="448"/>
+	<SubTexture name="srajenie0021" x="10" y="1504" width="484" height="448"/>
+	<SubTexture name="srajenie0022" x="544" y="1504" width="484" height="448"/>
+	<SubTexture name="srajenie0023" x="1078" y="1504" width="484" height="448"/>
+	<SubTexture name="srajenie0024" x="1612" y="1504" width="484" height="448"/>
+	<SubTexture name="srajenie0025" x="2146" y="1504" width="484" height="448"/>
+	<SubTexture name="srajenie0026" x="2680" y="1504" width="484" height="448"/>
+	<SubTexture name="srajenie0027" x="3214" y="1504" width="484" height="448"/>
+	<SubTexture name="srajenie0028" x="10" y="2002" width="484" height="448"/>
+	<SubTexture name="srajenie0029" x="544" y="2002" width="484" height="448"/>
+	<SubTexture name="srajenie0030" x="1078" y="2002" width="484" height="448"/>
+	<SubTexture name="srajenie0031" x="1612" y="2002" width="484" height="448"/>
+	<SubTexture name="srajenie0032" x="2146" y="2002" width="484" height="448"/>
+	<SubTexture name="srajenie0033" x="2680" y="2002" width="484" height="448"/>
+	<SubTexture name="srajenie0034" x="3214" y="2002" width="484" height="448"/>
+	<SubTexture name="srajenie0035" x="10" y="2500" width="484" height="448"/>
+	<SubTexture name="srajenie0036" x="544" y="2500" width="484" height="448"/>
+	<SubTexture name="srajenie0037" x="1078" y="2500" width="484" height="448"/>
+	<SubTexture name="srajenie0038" x="1612" y="2500" width="484" height="448"/>
+	<SubTexture name="srajenie0039" x="2146" y="2500" width="484" height="448"/>
+	<SubTexture name="srajenie0040" x="2680" y="2500" width="484" height="448"/>
+	<SubTexture name="srajenie0041" x="3214" y="2500" width="484" height="448"/>
+	<SubTexture name="srajenie0042" x="10" y="2998" width="484" height="448"/>
+	<SubTexture name="srajenie0043" x="544" y="2998" width="484" height="448"/>
+	<SubTexture name="srajenie0044" x="1078" y="2998" width="484" height="448"/>
+	<SubTexture name="srajenie0045" x="1612" y="2998" width="484" height="448"/>
+	<SubTexture name="srajenie0046" x="2146" y="2998" width="484" height="448"/>
+	<SubTexture name="srajenie0047" x="2680" y="2998" width="484" height="448"/>
+	<SubTexture name="srajenie0048" x="3214" y="2998" width="484" height="448"/>
+</TextureAtlas>

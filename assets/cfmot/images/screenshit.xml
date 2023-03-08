@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="screenshit.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sh0000" x="10" y="10" width="1112" height="876" frameX="-2" frameY="-157" frameWidth="1449" frameHeight="1044"/>
+	<SubTexture name="sh0001" x="1172" y="10" width="1095" height="1044" frameX="0" frameY="0" frameWidth="1449" frameHeight="1044"/>
+	<SubTexture name="sh0002" x="2317" y="10" width="1449" height="1044"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ch_st_gl.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rcglasses0000" x="10" y="10" width="345" height="350"/>
+	<SubTexture name="rcglasses0001" x="10" y="10" width="345" height="350"/>
+	<SubTexture name="rcglasses0002" x="405" y="10" width="345" height="350"/>
+	<SubTexture name="rcglasses0003" x="405" y="10" width="345" height="350"/>
+	<SubTexture name="rcglasses0004" x="800" y="10" width="345" height="350"/>
+	<SubTexture name="rcglasses0005" x="800" y="10" width="345" height="350"/>
+	<SubTexture name="rcglasses0006" x="1195" y="10" width="345" height="350"/>
+	<SubTexture name="rcglasses0007" x="1195" y="10" width="345" height="350"/>
+	<SubTexture name="rcglasses0008" x="1590" y="10" width="345" height="350"/>
+	<SubTexture name="rcglasses0009" x="10" y="410" width="345" height="350"/>
+</TextureAtlas>

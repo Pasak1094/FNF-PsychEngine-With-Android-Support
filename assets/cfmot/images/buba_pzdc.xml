@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="buba_pzdc.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bubildich0000" x="10" y="10" width="352" height="625"/>
+	<SubTexture name="bubildich0001" x="10" y="10" width="352" height="625"/>
+	<SubTexture name="bubildich0002" x="412" y="10" width="352" height="625"/>
+	<SubTexture name="bubildich0003" x="412" y="10" width="352" height="625"/>
+	<SubTexture name="bubildich0004" x="814" y="10" width="352" height="625"/>
+	<SubTexture name="bubildich0005" x="814" y="10" width="352" height="625"/>
+	<SubTexture name="bubildich0006" x="1216" y="10" width="352" height="625"/>
+	<SubTexture name="bubildich0007" x="1216" y="10" width="352" height="625"/>
+	<SubTexture name="bubildich0008" x="1216" y="10" width="352" height="625"/>
+	<SubTexture name="bubildich0009" x="1216" y="10" width="352" height="625"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pikcher.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pikcher0000" x="10" y="10" width="457" height="652"/>
+	<SubTexture name="pikcher0001" x="10" y="10" width="457" height="652"/>
+	<SubTexture name="pikcher0002" x="517" y="10" width="457" height="652"/>
+	<SubTexture name="pikcher0003" x="517" y="10" width="457" height="652"/>
+	<SubTexture name="pikcher0004" x="1024" y="10" width="457" height="652"/>
+	<SubTexture name="pikcher0005" x="1024" y="10" width="457" height="652"/>
+	<SubTexture name="pikcher0006" x="1531" y="10" width="457" height="652"/>
+	<SubTexture name="pikcher0007" x="1531" y="10" width="457" height="652"/>
+	<SubTexture name="pikcher0008" x="10" y="712" width="457" height="652"/>
+	<SubTexture name="pikcher0009" x="10" y="712" width="457" height="652"/>
+</TextureAtlas>

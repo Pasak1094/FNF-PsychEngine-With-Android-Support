@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kura_pzdc.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kura_pzdc0000" x="10" y="10" width="566" height="505"/>
+	<SubTexture name="kura_pzdc0001" x="10" y="10" width="566" height="505"/>
+	<SubTexture name="kura_pzdc0002" x="626" y="10" width="566" height="505"/>
+	<SubTexture name="kura_pzdc0003" x="626" y="10" width="566" height="505"/>
+	<SubTexture name="kura_pzdc0004" x="1242" y="10" width="566" height="505"/>
+	<SubTexture name="kura_pzdc0005" x="1242" y="10" width="566" height="505"/>
+	<SubTexture name="kura_pzdc0006" x="10" y="565" width="566" height="505"/>
+	<SubTexture name="kura_pzdc0007" x="10" y="565" width="566" height="505"/>
+	<SubTexture name="kura_pzdc0008" x="626" y="565" width="566" height="505"/>
+	<SubTexture name="kura_pzdc0009" x="626" y="565" width="566" height="505"/>
+</TextureAtlas>

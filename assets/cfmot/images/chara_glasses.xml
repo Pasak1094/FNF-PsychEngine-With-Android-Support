@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chara_glasses.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="charachery0000" x="10" y="10" width="595" height="533"/>
+	<SubTexture name="charachery0001" x="655" y="10" width="595" height="533"/>
+	<SubTexture name="charachery0002" x="1300" y="10" width="595" height="533"/>
+	<SubTexture name="charachery0003" x="1945" y="10" width="595" height="533"/>
+	<SubTexture name="charachery0004" x="2590" y="10" width="595" height="533"/>
+	<SubTexture name="charachery0005" x="3235" y="10" width="595" height="533"/>
+	<SubTexture name="charachery0006" x="10" y="593" width="595" height="533"/>
+	<SubTexture name="charachery0007" x="655" y="593" width="595" height="533"/>
+	<SubTexture name="charachery0008" x="1300" y="593" width="595" height="533"/>
+	<SubTexture name="charachery0009" x="1945" y="593" width="595" height="533"/>
+	<SubTexture name="charachery0010" x="2590" y="593" width="595" height="533"/>
+	<SubTexture name="charachery0011" x="3235" y="593" width="595" height="533"/>
+	<SubTexture name="charachery0012" x="10" y="1176" width="595" height="533"/>
+	<SubTexture name="charachery0013" x="655" y="1176" width="595" height="533"/>
+	<SubTexture name="charachery0014" x="1300" y="1176" width="595" height="533"/>
+	<SubTexture name="charachery0015" x="1945" y="1176" width="595" height="533"/>
+	<SubTexture name="charachery0016" x="2590" y="1176" width="595" height="533"/>
+	<SubTexture name="charachery0017" x="3235" y="1176" width="595" height="533"/>
+	<SubTexture name="charachery0018" x="10" y="1759" width="595" height="533"/>
+	<SubTexture name="charachery0019" x="655" y="1759" width="595" height="533"/>
+	<SubTexture name="charachery0020" x="1300" y="1759" width="595" height="533"/>
+	<SubTexture name="charachery0021" x="1945" y="1759" width="595" height="533"/>
+	<SubTexture name="charachery0022" x="2590" y="1759" width="595" height="533"/>
+	<SubTexture name="charachery0023" x="3235" y="1759" width="595" height="533"/>
+	<SubTexture name="charachery0024" x="10" y="2342" width="595" height="533"/>
+	<SubTexture name="charachery0025" x="655" y="2342" width="595" height="533"/>
+	<SubTexture name="charachery0026" x="1300" y="2342" width="595" height="533"/>
+	<SubTexture name="charachery0027" x="1945" y="2342" width="595" height="533"/>
+	<SubTexture name="charachery0028" x="2590" y="2342" width="595" height="533"/>
+	<SubTexture name="charachery0029" x="10" y="10" width="595" height="533"/>
+</TextureAtlas>

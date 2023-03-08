@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pikcha_glasses.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pikcher_glasses0000" x="10" y="10" width="389" height="570"/>
+	<SubTexture name="pikcher_glasses0001" x="10" y="10" width="389" height="570"/>
+	<SubTexture name="pikcher_glasses0002" x="449" y="10" width="389" height="570"/>
+	<SubTexture name="pikcher_glasses0003" x="449" y="10" width="389" height="570"/>
+	<SubTexture name="pikcher_glasses0004" x="888" y="10" width="389" height="570"/>
+	<SubTexture name="pikcher_glasses0005" x="888" y="10" width="389" height="570"/>
+	<SubTexture name="pikcher_glasses0006" x="1327" y="10" width="389" height="570"/>
+	<SubTexture name="pikcher_glasses0007" x="1327" y="10" width="389" height="570"/>
+	<SubTexture name="pikcher_glasses0008" x="10" y="630" width="389" height="570"/>
+	<SubTexture name="pikcher_glasses0009" x="449" y="630" width="389" height="570"/>
+</TextureAtlas>

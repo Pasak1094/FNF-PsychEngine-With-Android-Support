@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zazama_pzdc.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ma_pzdc0000" x="10" y="10" width="369" height="574"/>
+	<SubTexture name="ma_pzdc0001" x="10" y="10" width="369" height="574"/>
+	<SubTexture name="ma_pzdc0002" x="429" y="10" width="369" height="574"/>
+	<SubTexture name="ma_pzdc0003" x="429" y="10" width="369" height="574"/>
+	<SubTexture name="ma_pzdc0004" x="848" y="10" width="369" height="574"/>
+	<SubTexture name="ma_pzdc0005" x="848" y="10" width="369" height="574"/>
+	<SubTexture name="ma_pzdc0006" x="1267" y="10" width="369" height="574"/>
+	<SubTexture name="ma_pzdc0007" x="1267" y="10" width="369" height="574"/>
+	<SubTexture name="ma_pzdc0008" x="10" y="634" width="369" height="574"/>
+	<SubTexture name="ma_pzdc0009" x="429" y="634" width="369" height="574"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chara.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chara0000" x="10" y="10" width="296" height="594"/>
+	<SubTexture name="chara0001" x="10" y="10" width="296" height="594"/>
+	<SubTexture name="chara0002" x="356" y="10" width="296" height="594"/>
+	<SubTexture name="chara0003" x="356" y="10" width="296" height="594"/>
+	<SubTexture name="chara0004" x="702" y="10" width="296" height="594"/>
+	<SubTexture name="chara0005" x="702" y="10" width="296" height="594"/>
+	<SubTexture name="chara0006" x="1048" y="10" width="296" height="594"/>
+	<SubTexture name="chara0007" x="1048" y="10" width="296" height="594"/>
+	<SubTexture name="chara0008" x="1394" y="10" width="296" height="594"/>
+	<SubTexture name="chara0009" x="1740" y="10" width="296" height="594"/>
+</TextureAtlas>

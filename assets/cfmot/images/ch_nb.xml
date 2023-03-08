@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ch_nb.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chaha0000" x="10" y="10" width="249" height="257"/>
+	<SubTexture name="chaha0001" x="10" y="10" width="249" height="257"/>
+	<SubTexture name="chaha0002" x="309" y="10" width="249" height="257"/>
+	<SubTexture name="chaha0003" x="309" y="10" width="249" height="257"/>
+	<SubTexture name="chaha0004" x="608" y="10" width="249" height="257"/>
+	<SubTexture name="chaha0005" x="608" y="10" width="249" height="257"/>
+	<SubTexture name="chaha0006" x="10" y="317" width="249" height="257"/>
+	<SubTexture name="chaha0007" x="10" y="317" width="249" height="257"/>
+	<SubTexture name="chaha0008" x="309" y="317" width="249" height="257"/>
+	<SubTexture name="chaha0009" x="608" y="317" width="249" height="257"/>
+</TextureAtlas>
