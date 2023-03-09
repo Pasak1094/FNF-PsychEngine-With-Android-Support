@@ -1,0 +1,76 @@
+{
+	"storyName": "cfmot 6",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Ditch",
+			"icon-knify",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Pocket Dimension",
+			"icon-bottly",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Idk",
+			"icon-nonsense",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Lemme Try",
+			"icon-sprayish",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Possesion",
+			"face-lightbolb",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"unnamed",
+			"icon-yo",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekName": "cfmot6",
+	"hiddenUntilUnlocked": false
+}

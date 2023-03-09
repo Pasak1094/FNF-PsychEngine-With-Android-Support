@@ -1,0 +1,66 @@
+{
+	"storyName": "Contest for a Million of Thousands",
+	"hideFreeplay": false,
+	"weekBackground": "cfmot",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"kratcy",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"The Best Letter",
+			"kratcy",
+			[
+				228,
+				79,
+				107
+			]
+		],
+		[
+			"Band",
+			"kurasan",
+			[
+				192,
+				113,
+				69
+			]
+		],
+		[
+			"Nervous Breakdown",
+			"charmy",
+			[
+				124,
+				59,
+				72
+			]
+		],
+		[
+			"Glasses",
+			"putty",
+			[
+				244,
+				229,
+				203
+			]
+		],
+		[
+			"PZDC",
+			"chargery",
+			[
+				244,
+				229,
+				203
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "CFMOT Week"
+}
