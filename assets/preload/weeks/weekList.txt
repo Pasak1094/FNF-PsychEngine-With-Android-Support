@@ -1,4 +1,4 @@
 freeplay
 tutorial
-week1
-week2
+cfmot
+cfmot2
